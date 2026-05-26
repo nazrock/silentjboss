@@ -15,8 +15,8 @@
 </com.izforge.izpack.panels.TreePacksPanel>
 <com.izforge.izpack.panels.UserInputPanel id="CreateUserPanel">
 <userInput>
-<entry key="adminUser" value="admin"/>
-<entry key="adminPassword" value="admin@123"/>
+<entry key="adminUser" value="shaik"/>
+<entry key="adminPassword" value="rock@123"/>
 </userInput>
 </com.izforge.izpack.panels.UserInputPanel>
 <com.izforge.izpack.panels.SummaryPanel id="SummaryPanel"/>
